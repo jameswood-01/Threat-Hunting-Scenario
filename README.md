@@ -3,7 +3,7 @@
 <img width="400" src="https://github.com/user-attachments/assets/44bac428-01bb-4fe9-9d85-96cba7698bee" alt="Tor Logo with the onion and a crosshair on it"/>
 
 # Threat Hunt Report: Unauthorized TOR Usage
-- [Scenario Creation]([https://github.com/jameswood-01/threat-hunting-scenario-tor/blob/main/threat-hunting-scenario-tor-event-creation.md])
+- [Scenario Creation]([(https://github.com/jameswood-01/threat-hunting-scenario-tor/blob/main/threat-hunting-scenario-tor-event-creation.md)]
 ## Steps the "Bad Actor" took Create Logs and IoCs:
 1. Download the TOR browser installer: https://www.torproject.org/download/
 2. Install it silently: ```tor-browser-windows-x86_64-portable-14.0.1.exe /S```
