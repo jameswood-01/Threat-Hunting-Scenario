@@ -82,22 +82,12 @@ DeviceFileEvents
 - **Author Contact**: https://www.linkedin.com/in/jamesmwood22/
 - **Date**: September 07 2026
 
-## Validated By:
-- **Reviewer Name**: 
-- **Reviewer Contact**: 
-- **Validation Date**: 
-
----
-
-## Additional Notes:
-- **None**
-
 ---
 
 ## Revision History:
 | **Version** | **Changes**                   | **Date**         | **Modified By**   |
 |-------------|-------------------------------|------------------|-------------------|
-| 1.0         | Initial draft                  | `September  6, 2026`  | `James Wood`   ]
+| 1.0         | Initial draft                  | `September  6, 2026`  | `James Wood`
 
 ## Platforms and Languages Leveraged
 - Windows 10 Virtual Machines (Microsoft Azure)
